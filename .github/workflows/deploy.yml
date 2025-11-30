@@ -2,7 +2,7 @@ name: Hugo Deploy
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
 
 permissions:
   contents: write   # REQUIRED to push to gh-pages
