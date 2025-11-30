@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/graphic-portfolio
+  repo: patrykiciak/graphics-portfolio
   branch: main
 
 media_folder: "static/images"
