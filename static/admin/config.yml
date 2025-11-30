@@ -6,6 +6,8 @@ backend:
 media_folder: "static/images" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images"
 
+publish_mode: editorial_workflow
+
 collections:
   - name: "projects"
     label: "Projects"
